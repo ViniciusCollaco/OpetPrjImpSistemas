@@ -40,10 +40,10 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django.contrib.sites',
     # 3rd party
-    'allauth',
-    'allauth.account',
-    'allauth.socialaccount',
-    'crispy_forms',
+    "allauth",
+    "allauth.account",
+    "allauth.socialaccount",
+    "crispy_forms",
     # local apps
     'pages.apps.PagesConfig',
 ]
